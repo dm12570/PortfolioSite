@@ -1,9 +1,32 @@
 body.ouioui{
     margin: auto;
     text-align: center;
+    background-image: url("/Images/skybackground.jfif");
+    background-repeat: repeat;
+    background-size: 100%;
+    color: gold;
 }
-.class{
-   background-image: linear-gradient(rgba(0, 0, 0, 0.5)) url(/Images/Douglas\ Martin.aspx);
+
+.yes{
+    list-style-type: none;
+    color: gold;
+    padding: 7%;
+    margin: 4%;
+    background: rgba(0, 0, 0, .6);
+    font-size: 250%;
     
-    
+   
+} 
+
+a:visited{
+        color: goldenrod;
+    }
+
+a:hover{
+        color: mediumaquamarine;
+    }
+
+body.ye{
+    text-align: center;
+   
 }
