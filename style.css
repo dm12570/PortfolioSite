@@ -10,6 +10,7 @@ body.ouioui{
 .yes{
     list-style-type: none;
     color: gold;
+    
     padding: 7%;
     margin: 4%;
     background: rgba(0, 0, 0, .6);
@@ -17,6 +18,15 @@ body.ouioui{
     
    
 } 
+body.ye{
+    margin: auto;
+    text-align: center;
+    background-image: url("/Images/talentbackground.jfif");
+    background-repeat: repeat;
+    background-size: 100%;
+    color: gold;
+}
+
 
 a:visited{
         color: goldenrod;
