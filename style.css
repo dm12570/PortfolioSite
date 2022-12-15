@@ -27,7 +27,17 @@ body.ye{
     color: gold;
 }
 
+body.indeed{
+    background: darkblue;
+    color: darkgoldenrod;
+    text-align: center;
+}
 
+body.poor{
+    background: black;
+    text-align: center;
+    color: whitesmoke;
+}
 a:visited{
         color: goldenrod;
     }
@@ -39,4 +49,14 @@ a:hover{
 body.ye{
     text-align: center;
    
+}
+.yeees{
+    list-style-type: none;
+    color: gold;
+    text-align: center;
+    padding: 7%;
+    margin: 4%;
+    background: rgba(20, 40, 40, .6);
+    font-size: 250%;
+    
 }
