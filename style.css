@@ -28,15 +28,17 @@ body.ye{
 }
 
 body.indeed{
-    background: darkblue;
+    background-image: url("/Images/about_me_background.jfif");
     color: darkgoldenrod;
     text-align: center;
+  
+    background-size: 100%;
 }
 
 body.poor{
     background: black;
     text-align: center;
-    color: whitesmoke;
+    color: lightseagreen;
 }
 a:visited{
         color: goldenrod;
